@@ -1,0 +1,6 @@
+# ==========================================================================
+# REKAP TRANSAKSI PENJUALAN KOPMA MART
+# Format: NoNota | Waktu | Total | Tunai | Kembalian | Jumlah Item
+# ==========================================================================
+NOTA-20260926-0001 | 2026-09-26 13:07:57 | Total: Rp 11.000,00 | Tunai: Rp 18.000,00 | Kembali: Rp 7.000,00 | 3 Item
+NOTA-20260926-0002 | 2026-09-26 13:11:21 | Total: Rp 7.500,00 | Tunai: Rp 20.000,00 | Kembali: Rp 12.500,00 | 2 Item

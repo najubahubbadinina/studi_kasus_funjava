@@ -1,0 +1,13 @@
+# FORMAT: barcodeId;namaBarang;kategori;hargaJual;stokGudang
+8991001;Indomie Goreng Spesial;Makanan;3500;43
+8991002;Indomie Kuah Ayam Bawang;Makanan;3500;30
+8992001;Aqua Botol 600ml;Minuman;3500;49
+8992002;Teh Botol Sosro Kotak 250ml;Minuman;4000;23
+8992003;Ultra Milk Coklat 250ml;Minuman;6500;20
+8992004;Nescafe Kopi Can Original;Minuman;9000;15
+8993001;Chitato Sapi Panggang 68g;Snack;11500;18
+8993002;Roti Sari Roti Coklat;Snack;6000;12
+8994001;Buku Tulis Sinar Dunia 38;ATK;5000;40
+8994002;Pulpen Standard AE7 Hitam;ATK;3000;60
+8994003;Correction Tape Joyko Tipex;ATK;8500;15
+8995001;Kopma Tote Bag Kanvas;Merchandise;35000;10
